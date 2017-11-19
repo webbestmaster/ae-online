@@ -6,6 +6,9 @@ logs
 *.log
 npm-debug.log*
 
+# dist
+dist
+
 # dependency directories
 node_modules/
 

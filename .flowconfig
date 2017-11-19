@@ -1,0 +1,12 @@
+[ignore]
+.*/dist/.*
+.*/node_modules/.*
+.*/www/js/lib/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
