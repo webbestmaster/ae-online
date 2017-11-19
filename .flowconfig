@@ -1,11 +1,11 @@
 [ignore]
 .*/dist/.*
-.*/node_modules/.*
-.*/www/js/lib/.*
 
 [include]
 
 [libs]
+.*/node_modules/.*
+.*/www/js/lib/.*
 
 [lints]
 
